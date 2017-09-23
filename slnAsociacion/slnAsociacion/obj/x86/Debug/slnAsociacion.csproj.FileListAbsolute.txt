@@ -1,0 +1,15 @@
+C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\slnAsociacion\bin\slnAsociacion.dll.config
+C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\slnAsociacion\bin\slnAsociacion.dll
+C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\slnAsociacion\bin\slnAsociacion.pdb
+C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\slnAsociacion\bin\Asociacion.Entidades.dll
+C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\slnAsociacion\bin\Asociacion.Logica.dll
+C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\slnAsociacion\bin\Asociacion.Datos.dll
+C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\slnAsociacion\bin\Asociacion.Entidades.pdb
+C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\slnAsociacion\bin\Asociacion.Logica.pdb
+C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\slnAsociacion\bin\Asociacion.Datos.pdb
+C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\slnAsociacion\obj\x86\Debug\slnAsociacion.csprojResolveAssemblyReference.cache
+C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\slnAsociacion\obj\x86\Debug\slnAsociacion.csproj.ResolveComReference.cache
+C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\slnAsociacion\obj\x86\Debug\RdlCompile.cache
+C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\slnAsociacion\obj\x86\Debug\RdlCompile.compiled
+C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\slnAsociacion\obj\x86\Debug\slnAsociacion.dll
+C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\slnAsociacion\obj\x86\Debug\slnAsociacion.pdb
