@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:constants="clr-namespace:MiPrimerApp;assembly=MiPrimerApp"
+             x:Class="MiPrimerApp.Tabla">
+
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness" 
+                    iOS="0,0,0,0"
+                    Android="0,0,0,0"
+                    WinPhone="12,10,12,10"></OnPlatform>
+    </ContentPage.Padding>
+
+    <StackLayout>
+        <TableView Intent="Form">
+            <TableRoot>
+                <TableSection Title="Registro">
+                    <EntryCell Label="Usuario" x:Name="BoxUsuario"></EntryCell>
+                    <SwitchCell Text="Capturar" x:Name="SwitchSave"></SwitchCell>
+                </TableSection>
+            </TableRoot>
+        </TableView>
+    </StackLayout>
+
+
+</ContentPage>

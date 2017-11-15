@@ -1,9 +1,0 @@
-C:\Users\wogut\Documents\Visual Studio 2015\Projects\slnAsociacion\Asociacion.Entidades\bin\Debug\Asociacion.Entidades.dll
-C:\Users\wogut\Documents\Visual Studio 2015\Projects\slnAsociacion\Asociacion.Entidades\bin\Debug\Asociacion.Entidades.pdb
-C:\Users\wogut\Documents\Visual Studio 2015\Projects\slnAsociacion\Asociacion.Entidades\obj\Debug\Asociacion.Entidades.dll
-C:\Users\wogut\Documents\Visual Studio 2015\Projects\slnAsociacion\Asociacion.Entidades\obj\Debug\Asociacion.Entidades.pdb
-C:\Users\wogut\Documents\Visual Studio 2015\Projects\slnAsociacion\Asociacion.Entidades\obj\Debug\Asociacion.Entidades.csprojResolveAssemblyReference.cache
-C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\Asociacion.Entidades\bin\Debug\Asociacion.Entidades.dll
-C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\Asociacion.Entidades\bin\Debug\Asociacion.Entidades.pdb
-C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\Asociacion.Entidades\obj\Debug\Asociacion.Entidades.dll
-C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\Asociacion.Entidades\obj\Debug\Asociacion.Entidades.pdb

@@ -1,4 +1,0 @@
-C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\Asociacion.Entidades\bin\x86\Debug\Asociacion.Entidades.dll
-C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\Asociacion.Entidades\bin\x86\Debug\Asociacion.Entidades.pdb
-C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\Asociacion.Entidades\obj\x86\Debug\Asociacion.Entidades.dll
-C:\Users\wogut\Documents\Visual Studio 2013\Projects\slnAsociacion\Asociacion.Entidades\obj\x86\Debug\Asociacion.Entidades.pdb
